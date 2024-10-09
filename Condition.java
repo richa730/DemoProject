@@ -1,9 +1,5 @@
 public class Condition {
 
-    public static void main(String [] args)
-    {
-        ifelsecond(2);
-    }
     public static int ifelsecond(int a)
     {
         if (a==2)

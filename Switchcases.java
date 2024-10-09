@@ -2,7 +2,9 @@ public class Switchcases {
 
     public static void main (String [] args)
     {
-cases(4);
+        cases(1);
+        Condition cd = new Condition();
+        cd.ifelsecond(2);
     }
 
     public static void cases(int n)
